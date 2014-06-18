@@ -1,1 +1,1 @@
-http://leroysrants.com/the-rants/design-patterns-state-pattern
+http://leroysrants.com/design-patterns-state-pattern
